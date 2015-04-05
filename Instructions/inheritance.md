@@ -179,7 +179,6 @@ Sources
   * `FMULSU Rd, Rr`
 * Transfers
   * `MOVW Rd, Rr`
-  * `LPM`
   * `LPM Rd, Z`
   * `LPM Rd, Z+`
   * `SPM`
