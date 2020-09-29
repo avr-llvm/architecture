@@ -4,7 +4,7 @@
 This document attempts to describe inheritance in between MCU families.
 
 Sources
-* [en.wikipedia.org/wiki/Atmel_AVR_instruction_set](en.wikipedia.org/wiki/Atmel_AVR_instruction_set)
+* [en.wikipedia.org/wiki/Atmel_AVR_instruction_set](https://en.wikipedia.org/wiki/Atmel_AVR_instruction_set)
 *  `gcc/config/avr/avr-mcus.def`
 
 ## Minimal Core (`avr1`)
